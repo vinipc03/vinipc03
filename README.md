@@ -26,9 +26,9 @@
    <a href="https://www.linkedin.com/in/vinícius-costa-a31223a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+# Mais em:
 <div>
-  # Mais em:
-  github.io/vinipc03/portifolio
+   <a href="https://www.github.io/vinipc03/portifolio?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
 </div>
