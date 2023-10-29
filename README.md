@@ -10,7 +10,7 @@
 
   <p>Estudante no 1° semetre no curso de Análise e desenvolvimento de sistemas pelo Instituto Federal(IFSP) de Bragança Paulista.</p>
   
-# Linguagem de Programação que conheço
+# Linguagens de Programação que conheço
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
