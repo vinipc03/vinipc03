@@ -29,7 +29,7 @@
 
 # Mais em:
 <div>
-   https://vinipc03.github.io/portifolio/
+   https://vinipc03.github.io
 </div>
 
 <picture>
